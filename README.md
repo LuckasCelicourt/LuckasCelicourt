@@ -1,246 +1,95 @@
-# Hi, I'm Luckas Celicourt 👋
+# Luckas Celicourt
 
-## 🛡️ Law Enforcement | Cybersecurity | Technology | Criminal Investigation
+**Cloud Security | AI Security | Security Engineering**
 
-I am building my life around one core belief:
+Building practical cybersecurity and engineering skills through technical projects, hands-on labs, research, and continuous learning.
 
-> **The world can be safer, and I want my work to contribute to making it that way.**
-
-My interests live at the intersection of **law enforcement, criminal investigation, cybersecurity, technology, and human behavior**.
-
-I aspire to serve in **law enforcement and criminal investigation** while continuing to develop deeply in cybersecurity and technology.
-
-I want to understand threats from both sides of the modern world:
-
-**what happens on the street and what happens behind a computer screen.**
-
-That means studying not only evidence and technology, but also **the mind and behavior behind criminal activity** — why people commit crimes, how patterns develop, how threats evolve, and how investigators can detect, understand, and prevent them.
-
-My experience as a **Police Cadet with the Bowling Green Police Department** has helped strengthen my discipline, communication, documentation, attention to detail, investigative thinking, and commitment to public safety.
-
-At the same time, I continuously build technical knowledge through cybersecurity labs, programming, networking, web development, computer systems, and hands-on engineering projects.
+[LinkedIn](https://www.linkedin.com/in/luckascelicourt/) · [GitHub](https://github.com/LuckasCelicourt)
 
 ---
 
-# 🎯 My Mission
+## About Me
 
-> **Protect people. Investigate crime. Defend systems. Understand threats. Build a safer world.**
+I'm a senior at Western Kentucky University studying Criminology, with a growing focus on cybersecurity engineering, secure cloud infrastructure, and artificial intelligence security.
 
-I'm not learning to collect titles or credentials.
+My long-term professional direction is:
 
-I'm learning because I want to understand how things work — **people, computers, networks, crime, systems, and technology** — and use that knowledge to solve real problems.
+**Cloud Security Engineer → AI Security Engineer → Security Architect**
 
-Whether a threat exists in the physical world or the digital world, the mission remains the same:
+I'm interested in understanding how systems are designed, where security weaknesses develop, and how engineering can reduce risks before incidents occur.
 
-### Protect. Understand. Detect. Investigate. Improve.
+This GitHub profile documents my technical development, experiments, labs, and projects. I focus on understanding the underlying technologies, applying security principles, and improving through practical work.
 
-I want to leave this world **safer and better than I found it.**
+## Technical Focus
 
-**Law Enforcement × Cybersecurity × Technology × Investigation**
+| Area | Current Focus |
+|---|---|
+| Cloud Security | AWS/Azure fundamentals, IAM, secure networking, cloud architecture |
+| AI Security | LLM security, RAG systems, prompt injection, data poisoning, AI agents |
+| Defensive Security | Threat detection, security monitoring, incident response, log analysis |
+| Systems & Networking | Linux, Windows, TCP/IP, DNS, Active Directory |
+| Development | Python, scripting, APIs, web applications, automation |
+| Security Architecture | Threat modeling, defense in depth, access controls, secure system design |
 
----
+These areas represent a combination of completed training, hands-on practice, and continuing study.
 
-# 🧠 What I'm Studying
+## Selected Projects
 
-- 🔐 Cybersecurity & Security Operations
-- 🔎 Criminal & Cybercrime Investigation
-- 🧪 Digital Forensics
-- 🚨 Incident Response
-- 🎯 Threat Detection
-- 🧠 Criminal Behavior & Psychology
-- 🌐 Networking & Wi-Fi
-- 🖥️ Windows Administration
-- 🏢 Active Directory
-- 🐧 Linux
-- 💻 Programming & Automation
-- 🌐 Web Development
-- 🛡️ Defensive Security
-- ⚙️ Computer & Cyber Systems
+### [Active Directory Home Lab](https://github.com/LuckasCelicourt/active-directory-home-lab)
 
----
+A learning repository focused on Windows enterprise administration, identity management, Active Directory, Group Policy, and related networking concepts.
 
-# 🔬 Learning Through Building
+### [Windows Incident Response](https://github.com/LuckasCelicourt/windows-incident-response)
 
-I believe knowledge becomes powerful when it is applied.
+A technical learning repository focused on Windows security events, incident investigation, log analysis, and defensive security methodology.
 
-This GitHub is a record of that process.
+### [Cybersecurity Portfolio](https://github.com/LuckasCelicourt/cybersecurity-portfolio)
 
-Here you'll find work involving:
+My collection of cybersecurity exercises, technical documentation, security learning notes, and project development.
 
-- Cybersecurity labs
-- Networking labs
-- Security tools
-- Programming projects
-- Full-stack web applications
-- Home lab experiments
-- Digital investigation exercises
-- Automation
-- Computer engineering projects
-- Technical documentation
+*Project documentation and verified results will continue to be expanded as work progresses.*
 
-Every project represents another step toward understanding complex systems and becoming better at protecting them.
+## Completed Training
 
----
+**TryHackMe**
+- SOC Level 1 Learning Path — 65 hours 29 minutes
+- AI Security Learning Path — 19 hours 15 minutes
 
-# 🚀 Current Areas of Development
+**Google / Coursera**
+- Foundations of Cybersecurity
+- Play It Safe: Manage Security Risks
+- Connect and Protect: Networks and Network Security
 
-### 🛡️ Cybersecurity Laboratory
+**LearnKartS / Coursera**
+- CompTIA Security+ Certification Preparation Specialization
 
-Building practical experience with:
+These are completed training programs and course certificates. They should not be confused with independently earned professional certifications such as CompTIA Security+.
 
-- Security Operations
-- Network Defense
-- System Administration
-- Threat Detection
-- Incident Response
-- Digital Investigations
-- Security Monitoring
+## Current Learning Roadmap
 
-### 🌐 Full-Stack Development
+**Foundation:** Networking, Linux, security fundamentals, Python, cloud fundamentals, and hands-on security investigations.
 
-Building applications while studying:
+**Cloud Engineering:** Secure cloud networking, IAM, encryption, cloud monitoring, infrastructure as code, and cloud incident response.
 
-- Frontend Development
-- Backend Systems
-- APIs
-- Databases
-- Authentication
-- Deployment
-- Application Security
+**AI Security:** LLM applications, RAG security, model supply chains, secure AI agents, threat modeling, and defensive testing.
 
-### ⚙️ Computer Engineering & Cyber Systems
+**Architecture:** Enterprise security design, Zero Trust, risk analysis, multi-layer defenses, and security architecture documentation.
 
-Expanding my understanding of:
+My goal is to support each stage with working projects, clear technical explanations, and reproducible evidence.
 
-- Electronics
-- Embedded Systems
-- Networking
-- Cybersecurity
-- Programming
-- 3D Printing
-- Robotics
-- Hardware/Software Integration
+## Engineering Principles
 
-### 🤖 Automation & Intelligent Systems
+- Understand systems before relying on tools.
+- Design with least privilege and defense in depth.
+- Test changes and document the results.
+- Treat security, reliability, and maintainability as engineering requirements.
+- Practice only in authorized environments.
+- Keep learning and improve through evidence.
 
-Experimenting with software, automation, AI-assisted systems, and tools that can solve real-world problems.
+## Connect
 
----
+I'm interested in connecting with cybersecurity professionals, cloud engineers, AI security researchers, technical mentors, and teams working on secure infrastructure.
 
-# 🧪 Featured Projects
+**[Connect with me on LinkedIn](https://www.linkedin.com/in/luckascelicourt/)**
 
-## 🏢 Active Directory Home Lab
-
-Building and studying a Windows enterprise environment involving:
-
-- Active Directory Domain Services (AD DS)
-- Group Policy (GPO)
-- DNS & DHCP
-- User & Group Administration
-- Windows Server
-- Identity & Access Management
-
-## 🚨 Windows Incident Response
-
-Practicing security investigations involving:
-
-- Windows Event Log Analysis
-- Security Monitoring
-- Incident Documentation
-- Threat Investigation
-- Evidence Analysis
-
-## 🛡️ Cybersecurity Portfolio
-
-An evolving collection of:
-
-- Security Labs
-- Technical Documentation
-- Investigation Reports
-- Learning Notes
-- Defensive Security Projects
-- Practical Cybersecurity Experiments
-
----
-
-# 🎓 Training & Continuous Learning
-
-My training has included work through:
-
-- TryHackMe
-- Google Cybersecurity coursework
-- CompTIA Security+ studies
-- Independent cybersecurity labs
-- Networking and systems administration
-- Programming and web development
-- Hands-on technical projects
-
-I believe certifications are useful, but **the ability to understand, build, investigate, and solve problems matters even more.**
-
----
-
-# 🛠️ Technical Skills
-
-**Operating Systems**  
-Windows 10 • Windows 11 • Linux
-
-**Cybersecurity**  
-Security Operations • Incident Response • Threat Detection • Windows Event Logs • SIEM Fundamentals • Network Security • Vulnerability Assessment
-
-**Security & Networking Tools**  
-Microsoft Sentinel • Splunk • Wireshark • Nmap • Burp Suite • Metasploit • Windows Event Viewer
-
-**Programming & Scripting**  
-Python • SQL • Bash • PowerShell • HTML5 • CSS3 • JavaScript
-
-**Development**  
-Git • GitHub • APIs • Databases • Full-Stack Web Development
-
-**Infrastructure**  
-Active Directory • Windows Server • Networking • DNS • DHCP • Identity & Access Management
-
----
-
-# 🎓 Education
-
-**Western Kentucky University**
-
-Bachelor's Degree in Criminology *(In Progress)*
-
-My academic studies complement my technical work by helping me better understand **crime, investigation, society, human behavior, and the justice system**.
-
----
-
-# 🧭 The Long-Term Mission
-
-Technology will continue to evolve.
-
-Crime will evolve with it.
-
-So will the people responsible for protecting others.
-
-My goal is to understand both the **physical and digital sides of security** — combining investigation, technology, cybersecurity, and an understanding of human behavior.
-
-I don't want to simply know how to use tools.
-
-I want to understand **why systems fail, how threats think and operate, how evidence tells a story, and how better systems can prevent harm before it happens.**
-
-### 🌎 Physical World
-### 💻 Digital World
-### 🔎 Investigation
-### 🛡️ Protection
-
-Different environments.
-
-**Same mission: a safer world.**
-
----
-
-# 🌐 Connect
-
-**LinkedIn:** linkedin.com/in/luckascelicourt  
-**GitHub:** github.com/LuckasCelicourt
-
----
-
-> **"Study the threat. Understand the behavior. Follow the evidence. Protect people. Build a safer world."**
+*Learn the systems. Understand the risks. Engineer better defenses.*
